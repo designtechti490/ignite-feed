@@ -81,7 +81,7 @@ $ npm run dev
 You can visualize the project layout through the links below:
 I created my version of colors and responsiveness. Feel free to duplicate and unleash your creativity.
 
--   [Ignite Feed ts](<https://www.figma.com/file/XnV9d4Nw9DhzphZNxEH9OD/Ignite-Feed-(Community)?node-id=0%3A1>)
+-   [Ignite Feed](<https://www.figma.com/file/XnV9d4Nw9DhzphZNxEH9OD/Ignite-Feed-(Community)?node-id=0%3A1>)
 
 Remembering that you need to have a [Figma](http://figma.com/) para acessá-lo.
 
@@ -89,7 +89,7 @@ Remembering that you need to have a [Figma](http://figma.com/) para acessá-lo.
 
 ## Deployment
 
-https://complete-ignite-feed.vercel.app/
+https://codesandbox.io/p/github/designtechti490/ignite-feed/main
 
 <a href="#top">☝</a>
 
