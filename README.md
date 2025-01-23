@@ -20,11 +20,11 @@
 
 This project was developed using the following technologies:
 
--   [React](https://pt-br.reactjs.org/)
--   [Vite](https://vitejs.dev/)
--   [TypeScript](https://www.typescriptlang.org/)
--   [CSSModules](https://github.com/css-modules/css-modules)
--   [Phosphor](https://phosphoricons.com/)
+- [React](https://pt-br.reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [CSSModules](https://github.com/css-modules/css-modules)
+- [Phosphor](https://phosphoricons.com/)
     <br>
 
 ---
@@ -33,14 +33,14 @@ This project was developed using the following technologies:
 
 **Ignite Feed**
 
-Ignite Feed is a social network-like project that allows users to create posts and receive comments and likes from their friends. Built with cutting-edge technologies, this project provides a seamless user experience and showcases the power of modern web development.:star_struck:
+Ignite Feed is a social network-like project that allows users to create posts and receive comments and likes from their friends. Built with cutting-edge technologies, this project provides a seamless user experience and showcases the power of modern web development. :star_struck:
 
 Features:
 
--   Create and share posts with your network.
--   Receive comments and likes on your posts from friends.
--   Responsiveness ensures a seamless experience across various devices.
--   Personalize the user interface with custom color themes.
+- Create and share posts with your network.
+- Receive comments and likes on your posts from friends.
+- Responsiveness ensures a seamless experience across various devices.
+- Personalize the user interface with custom color themes.
 
 This is a project developed during React bootcamp **[Ignite](https://www.rocketseat.com.br/discover)**, run by **[@Rocketseat](https://github.com/Rocketseat)**
 
@@ -81,7 +81,7 @@ $ npm run dev
 You can visualize the project layout through the links below:
 I created my version of colors and responsiveness. Feel free to duplicate and unleash your creativity.
 
--   [Ignite Feed](<https://www.figma.com/file/XnV9d4Nw9DhzphZNxEH9OD/Ignite-Feed-(Community)?node-id=0%3A1>)
+- [Ignite Feed](<https://www.figma.com/file/XnV9d4Nw9DhzphZNxEH9OD/Ignite-Feed-(Community)?node-id=0%3A1>)
 
 Remembering that you need to have a [Figma](http://figma.com/) para acessá-lo.
 
@@ -89,7 +89,7 @@ Remembering that you need to have a [Figma](http://figma.com/) para acessá-lo.
 
 ## Deployment
 
-https://codesandbox.io/p/github/designtechti490/ignite-feed/main
+<https://codesandbox.io/p/github/designtechti490/ignite-feed/main>
 
 <a href="#top">☝</a>
 
