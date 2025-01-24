@@ -1,3 +1,4 @@
+import { ImgHTMLAttributes } from "react"
 import styles from "./Avatar.module.css"
 
 //Concept of JavaScript destructuring in function parameters
@@ -10,11 +11,15 @@ import styles from "./Avatar.module.css"
  **/
 
 // The destructuring concept was used in the function parameters as an example below
-export function Avatar({ hasBorder = true, src }) {
+
+interface AvatarProps extends ImgHTMLAttributes<HTMLImageElement> {
+    hasBorder?: boolean;
+}
+export function Avatar({ hasBorder = true, ...props }: AvatarProps) {
     return (
         <img
-            src={src}
             className={hasBorder ? styles.avatarWithBorder : styles.avatar}
+            {...props}
         />
     )
 }
